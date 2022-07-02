@@ -1,0 +1,60 @@
+body {
+    background-color: gainsboro;
+    background-color: snow ;
+    background-repeat: no-repeat;
+    background-size:  ;
+    overflow: hidden;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 0 10px;
+    color: darkblue;
+    border: 3px;
+    border-radius: 5px;
+}
+#h2:hover{
+    background: slateblue;
+    color: red;
+    transition: 0.5ms;
+}
+@keyframes changecolor{
+    from{
+        background-color: gray;
+    }
+}
+to{
+    background-color: gray;
+    color: black;
+}
+title{
+    اشهر 5 العاب في العالم
+}
+#h1{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 0 10px;
+    color: darkblue;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+#h2{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 0 10px;
+    color: darkblue;
+    border: 2px solid darkred;
+    border-radius: 5px;
+}
+#h3{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 0 10px;
+    color: darkblue;
+    border: 2px solid black;
+    border-radius: 5px;
+}
